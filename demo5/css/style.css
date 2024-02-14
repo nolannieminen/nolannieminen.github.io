@@ -70,9 +70,9 @@ body {
 #navbarSupportedContent {
   width: 100%;
   background-color: #ff5100;
-  -webkit-box-pack: center;
+  -webkit-box-pack: right;
       -ms-flex-pack: center;
-          justify-content: center;
+          justify-content: left;
   padding: 10px 0;
   border-radius: 15px 15px 0 0;
 }
